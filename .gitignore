@@ -1,0 +1,6 @@
+# Ignorar entornos virtuales y archivos grandes
+backend/env/
+*.dll
+*.pyd
+*.keras
+*.h5
